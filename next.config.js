@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'http',
-        hostname: 'headless',
+        protocol: 'https',
+        hostname: 'wordpress-693833-3486433.cloudwaysapps.com',
         port: '',
         pathname: '/**'
       }
